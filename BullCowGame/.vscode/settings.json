@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"S:/C++Projects/BullCowGame/BullCowGame-starter-kit/.vscode": true,
+		"S:/C++Projects/BullCowGame/BullCowGame-starter-kit/Content": true,
+		"S:/C++Projects/BullCowGame/BullCowGame-starter-kit/Intermediate": true,
+		"S:/C++Projects/BullCowGame/BullCowGame-starter-kit/Saved": true
+	}
+}
