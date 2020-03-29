@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "S:\\Epic Games\\UE_4.22"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"__locale": "cpp",
+			"*.ipp": "cpp",
+			"xlocale": "cpp"
+		}
+	}
+}
